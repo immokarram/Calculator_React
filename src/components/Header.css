@@ -1,0 +1,8 @@
+.Header{
+    text-align: center;
+    animation: example3 0.5s 0.5s infinite;
+}
+@keyframes example3 {
+  from {color: red;}
+  to {color: rgb(1, 21, 16);}
+}
